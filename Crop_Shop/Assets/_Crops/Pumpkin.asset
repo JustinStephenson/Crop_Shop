@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 006e8648b63714c4a83b05d5c9bede48, type: 3}
+  m_Name: Pumpkin
+  m_EditorClassIdentifier: 
+  ID: 6
+  seedSprite: {fileID: 21300000, guid: 037a4002a2790624590da9f8fcfe563c, type: 3}
+  growing1Sprite: {fileID: 21300000, guid: 9ac02edd1d8f9364c92db62e8f267cc9, type: 3}
+  growing2Sprite: {fileID: 21300000, guid: 4317eeb8cf0576043b0af0ed33b8030b, type: 3}
+  growing3Sprite: {fileID: 21300000, guid: 4696941ea422a3a48a80457001672499, type: 3}
+  grownSprite: {fileID: 21300000, guid: 52b13652822ec454082336900cac0a94, type: 3}
+  deadSprite: {fileID: 21300000, guid: 4a50ded1e9ceca44194fbc88e9ccc876, type: 3}
+  growthSpeed: 2
+  dehydrateSpeed: 2.5
+  weedGrowthSpeed: 5

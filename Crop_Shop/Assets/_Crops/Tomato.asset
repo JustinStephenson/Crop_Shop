@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 006e8648b63714c4a83b05d5c9bede48, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  ID: 2
+  seedSprite: {fileID: 21300000, guid: 09770c2ce9f51a94b9a3481553ce2560, type: 3}
+  growing1Sprite: {fileID: 21300000, guid: 5aa8610adee029e4785ba43313bb4462, type: 3}
+  growing2Sprite: {fileID: 21300000, guid: 49458d5c06be855449aaa50957f1a5b5, type: 3}
+  growing3Sprite: {fileID: 21300000, guid: 721f1b5221cc1014d82b7e44e248b312, type: 3}
+  grownSprite: {fileID: 21300000, guid: d4ca4e750f044c443b2a27971caf955d, type: 3}
+  deadSprite: {fileID: 21300000, guid: 4a50ded1e9ceca44194fbc88e9ccc876, type: 3}
+  growthSpeed: 2
+  dehydrateSpeed: 2.5
+  weedGrowthSpeed: 5

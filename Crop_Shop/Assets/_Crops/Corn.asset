@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 006e8648b63714c4a83b05d5c9bede48, type: 3}
+  m_Name: Corn
+  m_EditorClassIdentifier: 
+  ID: 1
+  seedSprite: {fileID: 21300000, guid: 1c163660def50f64c95e41255152649e, type: 3}
+  growing1Sprite: {fileID: 21300000, guid: 87ac2bf2271c4a243bae6a6527568988, type: 3}
+  growing2Sprite: {fileID: 21300000, guid: 41bbb38b90b384d4eb749d778cc23e18, type: 3}
+  growing3Sprite: {fileID: 21300000, guid: 913a1801a3bac7d40b368323b8ecbf0a, type: 3}
+  grownSprite: {fileID: 21300000, guid: 2c9c2d34d3880084bb8c73d5c1addeb4, type: 3}
+  deadSprite: {fileID: 21300000, guid: 4a50ded1e9ceca44194fbc88e9ccc876, type: 3}
+  growthSpeed: 2
+  dehydrateSpeed: 2.5
+  weedGrowthSpeed: 5
